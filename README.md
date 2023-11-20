@@ -1,11 +1,11 @@
 # Flutter-Work-Around
 
-Under this respoistry I have covered my BITS Assignment - Flutter TO DO App
+Under this repository I have covered my BITS Assignment - Flutter TO DO App
 
-App has below features:
-	Adding task ( seprate screen )
-	Editing task ( seprate screen )
+The app has below features:
+	Adding task (separate screen )
+	Editing task (separate screen )
 	Marking Completion (gets turned green to symbolize the Completion)
 	Deleting task
-	Filtering the task based on Completion status
-	Each task has create and completed date info
+	Filtering the task based on the Completion status
+	Each task has created and completed date info
