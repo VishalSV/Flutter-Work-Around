@@ -10,6 +10,7 @@ The app has below features:
 - Filtering the task based on the Completion status
 - Each task has created and completed date info
 - Tasks get sorted based completion and created time stamp
+- Data get stored in backend DB using Back4App 
 
 
 Please snapshot PDF file to get more insights about App
