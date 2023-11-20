@@ -9,6 +9,7 @@ The app has below features:
 - Deleting task
 - Filtering the task based on the Completion status
 - Each task has created and completed date info
+- Tasks get sorted based completion and created time stamp
 
 
 Please snapshot PDF file to get more insights about App
